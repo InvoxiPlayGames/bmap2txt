@@ -1,0 +1,11 @@
+*.txt
+*.exe
+*.bin
+*.bmap
+*.rel
+*.str
+*.pdb
+bmap2txt
+*.dSYM
+.DS_Store
+*.log
